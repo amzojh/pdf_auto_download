@@ -1,0 +1,11 @@
+requests
+selenium
+beautifulsoup4==4.7.1
+lxml==4.3.0
+fake-useragent
+pandas
+xlrd==1.2.0
+numpy
+openpyxl==2.5.12
+PyPDF2==1.26.0
+pyinstaller

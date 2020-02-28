@@ -1,0 +1,6 @@
+*.xlsx
+.vscode/
+/build
+*.ipynb
+*.bat
+11
