@@ -1,7 +1,7 @@
 requests
 selenium
 beautifulsoup4==4.7.1
-lxml==4.3.0
+lxml==4.6.5
 fake-useragent
 pandas
 xlrd==1.2.0
