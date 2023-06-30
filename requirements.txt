@@ -7,5 +7,5 @@ pandas
 xlrd==1.2.0
 numpy
 openpyxl==2.5.12
-PyPDF2==1.26.0
+PyPDF2==1.27.9
 pyinstaller
